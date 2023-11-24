@@ -29,6 +29,9 @@ const state = reactive({ count: 0 })
 </script>
 
 <style scoped>
+h1 {
+  color: coral;
+}
 a {
   color: #42b983;
 }
