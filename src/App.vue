@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite123" />
+  <HelloWorld msg="Jenkins 变更标题测试：Hello Vue 3 + Vite" />
 </template>
 
 <script setup>
